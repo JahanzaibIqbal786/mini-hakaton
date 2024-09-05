@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300..700&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Space Grotesk", sans-serif;
+}
+
+header{
+    background-color: #fff !important;
+}
+nav ul li a {
+    color: #000000 !important;
+
+}
+
+nav .logo img{
+    width: 219.54px;
+    height: 36px;
+
+    
+}
+
+nav button{
+    color: #000000 !important;
+    border: 1px solid #191A23 !important;
+    width: Hug (231px)px;
+    /* padding: 20px 35px 20px 35px !important; */
+
+}
+
+section .content h1{
+font-size: 60px !important;
+}
+
+section .content p{
+    font-size: 20px !important;
+    }
+
+.consultation{
+    width: 60% !important;
+    padding: 20px !important;
+}
+section .image img{
+width: 600.46px;
+height: 515px;
+}
+
+
+
+
+
+main{
+    background: #F3F3F3;
+    
+}
+
+main img{
+    width: 500px;
+    height: 600px;
+    border-radius: 45px 0px 0px 0px;
+    opacity: 0px;
+}
+main form{
+    width: 600px;
+}
+
+
+.myfooter{
+    color: #fff;
+}
+
+.myfooter ul li {
+
+    list-style-type: none !important;
+}
+
+footer button{
+
+    width: 200px !important;
+    padding: 20px !important;
+}
+
+.footer-underline{
+    border-bottom: 2px solid #fff;
+    padding: 30px;
+}
